@@ -70,7 +70,7 @@ In your app's `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.martinlprb23:bgeraser:1.0.0")
+    implementation("com.martinlprb23:bgeraser:1.0.1")
 }
 ```
 
